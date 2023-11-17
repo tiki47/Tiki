@@ -1,0 +1,12 @@
+alternateclock=true
+completedCampaignMask=24
+epilogueUnlockSeen=true
+gluetheme=2
+hotkeyprofile=2_GridLeftSide
+LastCampaignId[1]=36864
+mastervolume=0.290970
+MeleeHelpIntroCount=3
+OptionRevisionAccount=0
+selectuncontrolable=true
+warChestLastSeenRound=1
+warChestLastSeenSeason=WARCHEST_SEASON_2

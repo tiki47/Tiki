@@ -1,0 +1,52 @@
+﻿GFX  19:14:17.862 ====================================================================================================
+GFX  19:14:17.862 Heroes of the Storm (B88122)
+GFX  19:14:17.862 
+GFX  19:14:17.862 Executable                      C:\Program Files (x86)\Heroes of the Storm\Versions\Base88122\HeroesOfTheStorm_x64.exe
+GFX  19:14:17.862 <Parameters>                    -sso=1 -launch -uid heroes
+GFX  19:14:17.862 Parent Executable               \Device\HarddiskVolume3\Program Files (x86)\Heroes of the Storm\Support64\HeroesSwitcher_x64.exe
+GFX  19:14:17.862 Grandparent Executable          \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  19:14:17.862 LocalTime                       2022-06-02 19:14:17.867
+GFX  19:14:17.862 <ComputerUser>                  joshu
+GFX  19:14:17.862 <ComputerName>                  DESKTOP-PD8JD65
+GFX  19:14:17.862 <Exe.Architecture>              x86_64
+GFX  19:14:17.862 <Version>                       2.55.2.88122
+GFX  19:14:17.862 <DataBuild>                     B88122
+GFX  19:14:17.862 <CodeBranch>                    branches/Heroes.55
+GFX  19:14:17.862 <CodeRevision>                  637067
+GFX  19:14:17.862 <Locale.Assets>                 enUS
+GFX  19:14:17.862 <Locale.Data>                   enUS
+GFX  19:14:17.862 <Locale.Install>                enUS
+GFX  19:14:17.862 <AccountCountry>                
+GFX  19:14:17.862 <AgentVersion>                  2.27.0.7779
+GFX  19:14:17.862 TelemetrySessionId              C1E13C94-277A-4A67-B8F0-B000E178E857
+GFX  19:14:17.862 ====================================================================================================
+GFX  19:14:17.862 DXGI: Available
+GFX  19:14:17.878 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  19:14:18.006 Adapter "NVIDIA GeForce RTX 3070 Ti" Vendor 0x4318 Device 0x4318
+GFX  19:14:18.006 Adapter "NVIDIA GeForce RTX 3070 Ti" Vendor 0x4318 Device 0x4318
+GFX  19:14:18.006 Skipped adapter "NVIDIA GeForce RTX 3070 Ti" because no outputs
+GFX  19:14:18.006 Adapter "Microsoft Basic Render Driver" Vendor 0x5140 Device 0x5140
+GFX  19:14:18.006 Skipped adapter "Microsoft Basic Render Driver" because no outputs
+GFX  19:14:18.006 Attempting D3D11 device creation on "NVIDIA GeForce RTX 3070 Ti"
+GFX  19:14:18.055 Device creation success.
+GFX  19:14:18.055 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  19:14:18.056 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  19:14:18.056 Initialized D3D11 GraphicsDevice: NVIDIA GeForce RTX 3070 Ti (Driver Version: 0.51215.0.0, VRAM: 8041MB, SVMEM: 32723MB).
+GFX  19:14:18.056 Setting up swap chain.
+GFX  19:14:18.056 Trying fullscreen
+GFX  19:14:18.135 Found matching display mode width: 1920 height: 1080 RRN: 240001 RRD: 1000
+GFX  19:14:18.136 Resizing D3D11 swap chain (1920x1080)
+GFX  19:14:18.198 Hardware Depth Sampling: Available
+GFX  19:14:18.214 Resource Cache Override Variable: 0MB
+GFX  19:14:18.214 Resource Cache: 2048MB Win64 (65446MB Physical, 60561MB Process Virtual)
+GFX  19:14:18.214 Resource Cache Sound:  460MB 
+GFX  19:14:18.214 Resource Cache Common: 450MB 
+GFX  19:14:18.214 Resource Cache Texture Max: 1500MB 
+GFX  19:14:20.976 PerfNotifiers initialized
+GFX  19:14:21.137 Focus Event. Changing to fullscreen.
+GFX  19:14:21.258 Setting up swap chain.
+GFX  19:14:21.258 Trying fullscreen
+GFX  19:14:21.261 Found matching display mode width: 1920 height: 1080 RRN: 240001 RRD: 1000
+GFX  19:14:21.262 Resizing D3D11 swap chain (1920x1080)
+GFX  19:14:21.384 Resource Cache Texture: 950MB 
+GFX  19:14:21.384 Resource Cache Texture Used: 0MB 

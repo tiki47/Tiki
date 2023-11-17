@@ -1,0 +1,61 @@
+﻿Load bank data
+Load campaign bank
+Load Liberty Info
+Cannot find Liberty bank
+Story Unit Splitter = 1
+Story Unit Hunter = 2
+Story Unit Hydralisk Impaler Burrowed = 1
+Story Unit Hydralisk Lurker Burrowed = 2
+Story Unit Corpser = 1
+Story Unit Vile = 2
+Story Unit Carrion = 0
+Story Unit Creeper = 0
+Story Unit ArmyUnit/Name/SwarmHostSplitARooted = 1
+Story Unit ArmyUnit/Name/SwarmHostSplitBRooted = 2
+Story Unit Torrasque = 2
+Story Unit Noxious = 1
+Story Unit Raptor = 1
+Story Unit Swarmling = 2
+Story Unit Splitter = 1
+Story Unit Hunter = 2
+Story Unit Corpser = 1
+Story Unit Vile = 2
+Story Unit Impaler = 1
+Story Unit Lurker = 2
+Story Unit Brood Lord = 1
+Story Unit Viper = 2
+Story Unit Carrion = 1
+Story Unit Creeper = 2
+Story Unit Noxious = 1
+Story Unit Torrasque = 2
+Story Unit Raptor = 1
+Story Unit Swarmling = 2
+Load mission sections
+Update campaign data
+Open banks for save purpose
+Apply Tech
+Add Unit Type To Unit Help Panel InfestedAbomination History Store = True
+Add Unit Type To Unit Help Panel HotSHunterBurrowed History Store = True
+Add Unit Type To Unit Help Panel HydraliskLurkerBurrowed History Store = True
+Add Unit Type To Unit Help Panel RoachVileBurrowed History Store = True
+Add Unit Type To Unit Help Panel SwarmHostSplitBRooted History Store = True
+Add Unit Type To Unit Help Panel HotSTorrasqueBurrowed History Store = True
+Add Unit Type To Unit Help Panel HotSSwarmling History Store = True
+Add Unit Type To Unit Help Panel HotSHunter History Store = True
+Add Unit Type To Unit Help Panel RoachVile History Store = True
+Add Unit Type To Unit Help Panel HydraliskLurker History Store = True
+Add Unit Type To Unit Help Panel MutaliskViper History Store = True
+Add Unit Type To Unit Help Panel SwarmHostSplitB History Store = True
+Add Unit Type To Unit Help Panel HotSTorrasque History Store = True
+Add Unit Type To Unit Help Panel Infestor History Store = True
+Add Unit Type To Unit Help Panel Queen History Store = True
+Add Unit Type To Unit Help Panel SpineCrawler History Store = True
+Add Unit Type To Unit Help Panel SporeCrawler History Store = True
+Add Unit Type To Unit Help Panel HotSSwarmlingBurrowed History Store = True
+UI options
+End game options
+Campaign Stats Bank Loaded
+Set story activity = 0 (Stopping 0)
+Moving to room 5 from 11
+Set story activity = 1 (Stopping 0)
+Performing on exit transition save

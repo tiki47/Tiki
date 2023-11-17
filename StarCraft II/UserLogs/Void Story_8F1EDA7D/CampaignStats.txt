@@ -1,0 +1,7 @@
+﻿MapStart
+MapInstance,53
+ID,PStory01
+LastMission,PAiur06
+MissionCount,19
+Version,1
+

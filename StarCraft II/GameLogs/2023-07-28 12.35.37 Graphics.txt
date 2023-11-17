@@ -1,0 +1,68 @@
+﻿GFX  12:35:37.517 ====================================================================================================
+GFX  12:35:37.517 StarCraft II (B90136)
+GFX  12:35:37.517 
+GFX  12:35:37.517 Executable              C:\Program Files (x86)\StarCraft II\Versions\Base90136\SC2_x64.exe
+GFX  12:35:37.517 <Parameters>            -sso=1 -launch -uid s2
+GFX  12:35:37.517 Parent Executable       \Device\HarddiskVolume3\Program Files (x86)\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  12:35:37.517 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  12:35:37.517 LocalTime               2023-07-28 12:35:37.518
+GFX  12:35:37.517 <ComputerUser>          joshu
+GFX  12:35:37.517 <ComputerName>          DESKTOP-PD8JD65
+GFX  12:35:37.517 <Exe.Architecture>      x86_64
+GFX  12:35:37.517 <Version>               5.0.11.90136
+GFX  12:35:37.517 <DataBuild>             B90136
+GFX  12:35:37.517 <CodeBranch>            branches/SC2.5.0.a
+GFX  12:35:37.517 <CodeRevision>          643567
+GFX  12:35:37.517 <Locale.Assets>         enUS
+GFX  12:35:37.517 <Locale.Data>           enUS
+GFX  12:35:37.517 <Locale.Install>        enUS
+GFX  12:35:37.517 <AccountCountry>        USA
+GFX  12:35:37.517 <AgentVersion>          2.31.0.8320
+GFX  12:35:37.517 ====================================================================================================
+GFX  12:35:37.516 DXGI: Available
+GFX  12:35:37.696 Resource Cache Override Variable: 0MB
+GFX  12:35:37.696 Resource Cache: 2048MB Win64 (65446MB Physical, 49324MB Process Virtual)
+GFX  12:35:37.696 Resource Cache Sound:  204MB 
+GFX  12:35:37.696 Resource Cache Common: 1843MB 
+GFX  12:35:37.696 Resource Cache VRam:   0MB
+GFX  12:35:37.727 Selected display mode 3840x2160x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:35:37.728 Adapter [0]: NVIDIA GeForce RTX 3070 Ti (VendorID 0x10de DeviceID 0x2482)
+GFX  12:35:37.728 Adapter [1]: NVIDIA GeForce RTX 3070 Ti (VendorID 0x10de DeviceID 0x2482)
+GFX  12:35:37.728 Adapter [2]: NVIDIA GeForce RTX 3070 Ti (VendorID 0x10de DeviceID 0x2482)
+GFX  12:35:37.728 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x2482)
+GFX  12:35:38.708 CreateDevice succeeded
+GFX  12:35:38.708 Using adapter [0]
+GFX  12:35:38.709 Floating point render targets supported.
+GFX  12:35:38.713 DXGI Adapter Name: NVIDIA GeForce RTX 3070 Ti
+GFX  12:35:38.713 VRAM Detected: Dedicated [8031MB] Shared [32723MB] (DXGI)
+GFX  12:35:38.713 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  12:35:38.713 Initialized D3D9 GraphicsDevice: NVIDIA GeForce RTX 3070 Ti (Driver Version: 31.0.15.3667, VRAM: 8031MB, SVMEM: 32723MB).
+GFX  12:35:39.757 Selected display mode 3840x2160x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:35:39.758 Hardware Depth Sampling: Available
+GFX  12:35:39.758 VRAM texture space: 2048MB
+GFX  12:35:41.306 PerfNotifiers initialized
+GFX  12:35:42.440 Selected display mode 3840x2160x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:35:42.440 Lost D3D9 device
+GFX  12:35:42.612 
+GFX  12:35:42.612 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  12:35:51.271 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  12:36:03.485 Selected display mode 3840x2160x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:36:03.485 DirectX call  failed with error code -2005530520
+GFX  12:36:03.497 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  12:36:03.497 DirectX call  failed with error code -2005530519
+GFX  12:36:03.497 Lost D3D9 device
+GFX  12:36:04.801 
+GFX  12:36:04.801 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  12:36:23.362 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  12:36:23.362 DirectX call  failed with error code -2005530519
+GFX  12:36:23.362 Lost D3D9 device
+GFX  12:36:24.408 
+GFX  12:36:24.408 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  12:41:15.115 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  12:41:20.923 Selected display mode 3840x2160x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:58:01.374 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  12:58:01.375 DirectX call  failed with error code -2005530519
+GFX  12:58:01.375 Lost D3D9 device
+GFX  12:58:03.318 
+GFX  12:58:03.318 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  12:58:08.672 Lost D3D9 device

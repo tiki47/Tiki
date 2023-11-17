@@ -1,0 +1,53 @@
+﻿GFX  16:16:57.381 ====================================================================================================
+GFX  16:16:57.381 StarCraft II (B88500)
+GFX  16:16:57.381 
+GFX  16:16:57.381 Executable              C:\Program Files (x86)\StarCraft II\Versions\Base88500\SC2_x64.exe
+GFX  16:16:57.381 <Parameters>            -sso=1 -launch -uid s2
+GFX  16:16:57.381 Parent Executable       \Device\HarddiskVolume3\Program Files (x86)\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  16:16:57.381 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  16:16:57.381 LocalTime               2022-09-15 16:16:57.381
+GFX  16:16:57.381 <ComputerUser>          joshu
+GFX  16:16:57.381 <ComputerName>          DESKTOP-PD8JD65
+GFX  16:16:57.381 <Exe.Architecture>      x86_64
+GFX  16:16:57.381 <Version>               5.0.10.88500
+GFX  16:16:57.381 <DataBuild>             B88500
+GFX  16:16:57.381 <CodeBranch>            branches/SC2.5.0.a
+GFX  16:16:57.381 <CodeRevision>          638488
+GFX  16:16:57.381 <Locale.Assets>         enUS
+GFX  16:16:57.381 <Locale.Data>           enUS
+GFX  16:16:57.381 <Locale.Install>        enUS
+GFX  16:16:57.381 <AccountCountry>        USA
+GFX  16:16:57.381 <AgentVersion>          2.27.2.7984
+GFX  16:16:57.381 ====================================================================================================
+GFX  16:16:57.381 DXGI: Available
+GFX  16:16:58.109 Resource Cache Override Variable: 0MB
+GFX  16:16:58.109 Resource Cache: 2048MB Win64 (65446MB Physical, 58792MB Process Virtual)
+GFX  16:16:58.109 Resource Cache Sound:  204MB 
+GFX  16:16:58.109 Resource Cache Common: 1843MB 
+GFX  16:16:58.109 Resource Cache VRam:   0MB
+GFX  16:16:58.133 Selected display mode 1920x1080x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:16:58.133 Adapter [0]: NVIDIA GeForce RTX 3070 Ti (VendorID 0x10de DeviceID 0x2482)
+GFX  16:16:58.133 Adapter [1]: NVIDIA GeForce RTX 3070 Ti (VendorID 0x10de DeviceID 0x2482)
+GFX  16:16:58.133 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x2482)
+GFX  16:16:58.237 CreateDevice succeeded
+GFX  16:16:58.237 Using adapter [0]
+GFX  16:16:58.238 Floating point render targets supported.
+GFX  16:16:58.242 DXGI Adapter Name: NVIDIA GeForce RTX 3070 Ti
+GFX  16:16:58.242 VRAM Detected: Dedicated [8041MB] Shared [32723MB] (DXGI)
+GFX  16:16:58.242 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:16:58.242 Initialized D3D9 GraphicsDevice: NVIDIA GeForce RTX 3070 Ti (Driver Version: 30.0.15.1215, VRAM: 8041MB, SVMEM: 32723MB).
+GFX  16:16:58.253 Selected display mode 1920x1080x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:16:58.254 Hardware Depth Sampling: Available
+GFX  16:16:58.254 VRAM texture space: 2048MB
+GFX  16:16:59.790 PerfNotifiers initialized
+GFX  16:16:59.979 Selected display mode 1920x1080x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:16:59.979 Lost D3D9 device
+GFX  16:17:00.040 
+GFX  16:17:00.040 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  16:19:11.232 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  16:19:20.694 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:19:20.695 DirectX call  failed with error code -2005530519
+GFX  16:19:20.695 Lost D3D9 device
+GFX  16:19:21.235 
+GFX  16:19:21.235 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:20:38.682 Lost D3D9 device

@@ -1,6 +1,0 @@
-<?xml version="1.0" ?>
-<Benchmark Result="26.400768" />
-<Adpatater>
-    <DX11 Description="NVIDIA GeForce RTX 3070 Ti" VendorId="4318" DeviceId="9346" SubSysId="1347556450" Revision="161" DedicatedVideoMemory="-1073741824" DedicatedSystemMemory="0" SharedSystemMemory="1073676288" Flags="0" />
-    <OGL ComputeShader="True" Vendor="NVIDIA Corporation" Renderer="NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2" Version="3.3.0 NVIDIA 531.79" />
-</Adpatater>

@@ -45,3 +45,31 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def geometry(square_side_length, circle_radius):
+    # Calculate square and circle parameters
+    square_perimeter = 4 * square_side_length
+    square_area = square_side_length ** 2
+
+    circle_circumference = 2 * math.pi * circle_radius
+    circle_area = math.pi * circle_radius ** 2
+
+    # Compare and print results
+    if square_perimeter > circle_circumference:
+        print("The square has a larger perimeter.")
+    elif square_perimeter < circle_circumference:
+        print("The circle has a larger circumference.")
+    else:
+        print("The square and circle have equal perimeters.")
+
+    if square_area > circle_area:
+        print("The square has a larger area.")
+    elif square_area < circle_area:
+        print("The circle has a larger area.")
+    else:
+        print("The square and circle have equal areas.")
+
+# Example usage:
+square_side_length = 5
+circle_radius = 3
+geometry(square_side_length, circle_radius)
